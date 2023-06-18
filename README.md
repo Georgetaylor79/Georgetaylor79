@@ -44,12 +44,12 @@
              </tr>
           </tbody>
  </table>
-<thead>
-  <title>Comicbook site</title>
+
+  Comicbook site
   <body>
     <p><a href="http://www.whattreestudio.com"></a></p>
-  </body>
-</thead>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
