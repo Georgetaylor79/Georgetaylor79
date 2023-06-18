@@ -14,7 +14,7 @@
        <blockquote class="twitter-tweet" data-partner="tweetdeck">
          
        
-          </blockquote> <!-- <> -->
+          </blockquote> <>
        
 </table>
 </table>
