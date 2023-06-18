@@ -11,7 +11,7 @@
     <tr>
       <th class='tg-0pky'>
        
-          <blockquote class="twitter-tweet" data-partner="tweetdeck">
+          <blockquote class="What Tree Studio">
           <p lang="en" dir="ltr">Let me interpret ’Karma.’ in terms of Machine Learning. It is ”Garbage In-Garbage Out” 
           <a href="https://whattreestudio.com>Comicbooksite</a> 
           <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a>
