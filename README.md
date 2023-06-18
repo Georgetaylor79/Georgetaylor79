@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-## I am currently enrolled in school to furter my careet in the web design field. 
+## I am currently enrolled in school to furter my careet in the web design field.
+
+> ## Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my pre
 <!--
 **Georgetaylor79/Georgetaylor79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<html>
-  <body>
-    <h1> Welcome</h1>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
