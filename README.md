@@ -27,7 +27,6 @@
   </thead>
 </table>
 </table>
-    <div class='center'>
     <table>
     <caption>Upcoming Comic Book Projects</caption>
         <thead>
