@@ -8,7 +8,9 @@
 
 <table class='tg'>
   <thead>
-
+    <tr>
+    <th class='tg-0pky'>
+    <div class='center'>
     <caption>Upcoming Comic Book Projects</caption>
         <thead>
             <tr>
