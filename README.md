@@ -14,7 +14,7 @@
        <blockquote class="twitter-tweet" data-partner="tweetdeck">
          
        
-          </blockquote> <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+          </blockquote> <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-15"></script> -->
        
 </table>
 </table>
