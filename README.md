@@ -11,6 +11,7 @@
     <tr>
     <th class='tg-0pky'>
     <div class='center'>
+    <table>
     <caption>Upcoming Comic Book Projects</caption>
         <thead>
             <tr>
