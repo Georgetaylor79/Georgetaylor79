@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## I am currently enrolled in school to furter my careet in the web design field.
-
+###Thank you for visiting
 > ## Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my pre
-> ###Thank you for visiting
+
 <!--
 **Georgetaylor79/Georgetaylor79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <-->
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->   <a href="https://whattreestudio.com>Comicbooksite</a>
-  ###Thank you for visiting
+>
