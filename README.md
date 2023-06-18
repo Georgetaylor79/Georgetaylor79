@@ -5,10 +5,7 @@
 > ## Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my pre
 <!--
 **Georgetaylor79/Georgetaylor79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-        <-->
+<-->
        
 </table>
 </table>
