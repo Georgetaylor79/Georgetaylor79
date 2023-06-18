@@ -12,7 +12,7 @@
       <th class='tg-0pky'>
 
        <blockquote class="twitter-tweet" data-partner="tweetdeck">
-          <p lang="en" dir="ltr">Let me interpret ’Karma.’ in terms of Machine Learning. It is ”Garbage In-Garbage Out” 
+         
           <a href="https://twitter.com/hashtag/The_Bharatha?src=hash&amp;ref_src=twsrc%5Etfw">#The_Bharatha</a> 
           <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a>
           </p>&mdash; Bharath-Kumar Shivakumar
