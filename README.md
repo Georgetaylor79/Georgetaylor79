@@ -11,12 +11,6 @@
     <tr>
       <th class='tg-0pky'>
        
-         
-    
-  
-        
-  
-  </thead>
 </table>
 </table>
     <table>
@@ -43,7 +37,7 @@
   www.whattreestudio.com
   <body>
     <p><a href="http://www.whattreestudio.com"></a></p>
-
+ </thead>
 
 Here are some ideas to get you started:
 
