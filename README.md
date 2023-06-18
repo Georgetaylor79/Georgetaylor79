@@ -5,7 +5,25 @@
 > ## Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my pre
 <!--
 **Georgetaylor79/Georgetaylor79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<table>
+    <caption>Upcoming Comic Book Projects</caption>
+        <thead>
+            <tr>
+              <th scope="col">title</th>
+              <th scope="col">Relase Date</th>
+            </tr>
+         </thead>
+         <tbody>
+             <tr>
+               <th scope="row">AODB</th>
+               <td>May 2024</td>
+             </tr>
+             <tr>
+                <th scope="row">Circule</th>
+                <td>Aug 2024</td>
+             </tr>
+          </tbody>
+ </table>         
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
