@@ -19,8 +19,7 @@
           <a href="https://twitter.com/The_Bharatha/status/1280404901659652096?ref_src=twsrc%5Etfw"> @The_Bharatha</a>
           </blockquote> <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
     
-      </th>
-      <th class='tg-0pky'>
+  
         
       <th>
     </tr>
