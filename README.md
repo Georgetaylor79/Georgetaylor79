@@ -13,7 +13,7 @@
        
           <blockquote class="twitter-tweet" data-partner="tweetdeck">
           <p lang="en" dir="ltr">Let me interpret ’Karma.’ in terms of Machine Learning. It is ”Garbage In-Garbage Out” 
-          <a href="https://twitter.com/hashtag/The_Bharatha?src=hash&amp;ref_src=twsrc%5Etfw">#The_Bharatha</a> 
+          <a href="https://whattreestudio.com>Comicbooksite</a> 
           <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a>
           </p>&mdash; Bharath-Kumar Shivakumar
           <a href="https://twitter.com/The_Bharatha/status/1280404901659652096?ref_src=twsrc%5Etfw"> @The_Bharatha</a>
