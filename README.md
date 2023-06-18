@@ -11,7 +11,7 @@
     <tr>
       <th class='tg-0pky'>
 
-       <blockquote class="twitter-tweet" data-partner="tweetdeck">
+       <blockquote class="">
          
        
           </blockquote> <-->
