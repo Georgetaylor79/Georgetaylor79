@@ -21,7 +21,7 @@
         </div>
       </th>
       <th class='tg-0pky'>
-        <h2> Feel free to explore my repositories! </h2>
+        
       <th>
     </tr>
   </thead>
