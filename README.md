@@ -10,7 +10,7 @@ help build 3d animation characters and enviorments'
 I enjoy drawing, working in Adobe applications, searching for artist related content to help create more unique images and learning about web development. 
 '
 '''
-My goal is to build my own company. 
+
 '''
 >#### My goal is build my own company. 
 
