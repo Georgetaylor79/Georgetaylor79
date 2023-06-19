@@ -6,7 +6,7 @@
 'int p = 20;'
 
 '''
-public void login(view v){
+'public void login(view v){'
 .. 
 .
 '''
