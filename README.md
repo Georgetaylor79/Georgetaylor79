@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alt text](C:\Users\14146\Desktop\Ritter\Ritter intro page 00.jpg)
 ## I am currently enrolled in school to furter my careet in the web design field.
 
 
