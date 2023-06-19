@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings, My name is George. 
+## Cartonnist and 3d Animator
+
 >Something to look at 
 
 'helo'
