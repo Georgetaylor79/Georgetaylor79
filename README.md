@@ -12,7 +12,7 @@ I enjoy drawing, working in Adobe applications, searching for artist related con
 '''
 My goal is to build my own company. 
 '''
->You too
+>#### My goal is build my own company. 
 
 www.whattreestudio.com
 
