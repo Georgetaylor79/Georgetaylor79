@@ -1,9 +1,8 @@
 ### Hi there 👋
-![alt text]https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff5%2F4b%2Fefa92f4c4dcebb2af996dfc4c01f%2F2023-lucid-air-1.jpg&tbnid=nw4VmmQN4toNQM&vet=12ahUKEwi67IDEhM7_AhWcLd4AHdcWAo8QMygWegUIARCAAw..i&imgrefurl=https%3A%2F%2Fcars.usnews.com%2Fcars-trucks%2Fadvice%2Fcool-family-cars&docid=nrG5xmqra2wnsM&w=2000&h=1310&q=cars&ved=2ahUKEwi67IDEhM7_AhWcLd4AHdcWAo8QMygWegUIARCAAw
 ## I am currently enrolled in school to furter my careet in the web design field.
 
 
-> ## Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my pre
+ ## Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my pre
 
 <!--
 **Georgetaylor79/Georgetaylor79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
