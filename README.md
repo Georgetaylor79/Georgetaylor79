@@ -11,7 +11,7 @@ I enjoy drawing, working in Adobe applications, searching for artist related con
 '
 '''
 
-'''"The price of success:hard work, patience and a few sacrifices. 
+"The price of success:hard work, patience and a few sacrifices." 
 >#### My goal is build my own company. 
 
 www.whattreestudio.com
