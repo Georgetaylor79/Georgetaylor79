@@ -19,7 +19,7 @@ I enjoy drawing, working in Adobe applications, searching for artist related con
     <caption>Upcoming Comic Book Projects</caption>
         <thead>
             <tr>
-              <th scope="col">title</th>
+              <th scope="col">Title</th>
               <th scope="col">Relase Date</th>
             </tr>
          </thead>
