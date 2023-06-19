@@ -7,10 +7,10 @@
 help build 3d animation characters and enviorments'
 
 '
-jump man
+I enjoy drawing, working in Adobe applications, searching for artist related content to help create more unique images and learning about web development. 
 '
 '''
-are you sure
+My goal is to build my own company. 
 '''
 >You too
 
