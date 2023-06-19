@@ -1,5 +1,6 @@
 ## Greetings, My name is George. 
 ### Cartonnist and 3d Animator
+####Currently enrolled in school for Web Development 
 
 >Something to look at 
 
