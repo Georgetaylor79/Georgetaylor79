@@ -1,5 +1,5 @@
-### Greetings, My name is George. 
-## Cartonnist and 3d Animator
+## Greetings, My name is George. 
+### Cartonnist and 3d Animator
 
 >Something to look at 
 
