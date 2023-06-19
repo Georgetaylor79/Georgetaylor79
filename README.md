@@ -12,7 +12,29 @@ I enjoy drawing, working in Adobe applications, searching for artist related con
 '''
 
 "The price of success:hard work, patience and a few sacrifices." 
->#### My goal is build my own company. 
+>#### My goal is build my own company.
+>
+</table>
+    <table>
+    <caption>Upcoming Comic Book Projects</caption>
+        <thead>
+            <tr>
+              <th scope="col">title</th>
+              <th scope="col">Relase Date</th>
+            </tr>
+         </thead>
+         <tbody>
+             <tr>
+               <th scope="row">AODB</th>
+               <td>May 2024</td>
+             </tr>
+             <tr>
+                <th scope="row">Circule</th>
+                <td>Aug 2024</td>
+             </tr>
+          </tbody>
+ </table>
+
 
 www.whattreestudio.com
 
