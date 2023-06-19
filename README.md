@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I am currently enrolled in school to furter my careet in the web design field.
 
-> I'm blockquote
+> My name is George Taylor
 
 'int p = 10;'
 
