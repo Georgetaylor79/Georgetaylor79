@@ -3,7 +3,7 @@
 
 >Student:Web Development 
 
-'I am a cartoonist that is currently working on independent projects. My focus is character development, storyline ideas, line art and page editing. I also
+I am a cartoonist that is currently working on independent projects. My focus is character development, storyline ideas, line art and page editing. I also
 help build 3d animation characters and enviorments.
 
 '
